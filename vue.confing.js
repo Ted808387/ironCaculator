@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? '/iron-calculator-company/' : '/',
+    publicPath: process.env.NODE_ENV === 'production' ? '/ironCaculator/' : '/',
   }
